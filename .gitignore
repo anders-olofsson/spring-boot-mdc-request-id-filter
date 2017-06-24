@@ -1,0 +1,9 @@
+*.log
+*.result
+.DS_Store
+.idea
+coverage
+lib
+*.iml
+target
+test-reports
